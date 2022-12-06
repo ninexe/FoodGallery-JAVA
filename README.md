@@ -1,1 +1,0 @@
-# FoodGallery-JAVA
